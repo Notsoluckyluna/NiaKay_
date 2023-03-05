@@ -1,0 +1,4 @@
+#Thu Feb 16 21:53:28 CST 2023
+base.0=C\:\\Users\\kaylu\\Documents\\GitHub\\VRProgrammingAssignment1\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
